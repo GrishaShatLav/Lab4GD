@@ -70,6 +70,6 @@ int main()
  
     system("chcp 1251>nul");
     srand(time(NULL));
-    dice("2к6+2,1к10");
+    dice("1к6");
 }
 
